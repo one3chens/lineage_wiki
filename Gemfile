@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 
-gem "jekyll", "3.4.5"
+gem "jekyll", "3.9.0"
 gem "therubyracer", "0.12.3"
 
 
@@ -21,7 +21,7 @@ group :jekyll_plugins do
    gem 'jekyll-sitemap', '= 1.0.0'
    gem 'jekyll-swiss', '= 0.4.0'
    gem 'jemoji', '= 0.8.0'
-   gem 'kramdown', '= 1.13.2'
+   gem 'kramdown', '= 2.3.1'
    gem 'liquid', '= 3.0.6'
    gem 'listen', '= 3.0.6'
    gem 'mercenary', '~> 0.3'
